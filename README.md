@@ -6,7 +6,7 @@ maven { url = uri("https://gitee.com/liu-huiliang/jarlibs/raw/master") }
 ```
 ##### 配置引用 
 ```
-implementation 'com.lhl.result:result:1.0.0'
+implementation 'com.lhl.apackage:apackage:1.0.0'
 ```
 #### api说明
 ##### PackageUtil说明
