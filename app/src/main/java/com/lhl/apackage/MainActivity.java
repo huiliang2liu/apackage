@@ -16,14 +16,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void gaode(View v) {
-        Toast.makeText(this, ApkUtil.isAvailableMiniMap(this) ? "安装了":"没安装",Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, ApkUtil.isAvailableMiniMap(this) ? "安装了":"没安装",Toast.LENGTH_SHORT).show();
     }
 
     public void baidu(View v) {
-        Toast.makeText(this, ApkUtil.isAvailableBaiDuMap(this) ? "安装了":"没安装",Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, ApkUtil.isAvailableBaiDuMap(this) ? "安装了":"没安装",Toast.LENGTH_SHORT).show();
     }
 
     public void weixin(View v) {
-        Toast.makeText(this, ApkUtil.isAvailableWeiXin(this) ? "安装了":"没安装",Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, ApkUtil.isAvailableWeiXin(this) ? "安装了":"没安装",Toast.LENGTH_SHORT).show();
     }
 }
